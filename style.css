@@ -7,3 +7,5 @@ body { background: #141414; color: white; font-family: Arial; }
 .serie img { width: 100%; height: 400px; object-fit: cover; display: block; }
 
 .info { padding: 20px; }
+
+.serie h2 { color: #e50914; margin-top: 0; font-size: 24px; text-transform: uppercase; }
