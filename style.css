@@ -9,3 +9,5 @@ body { background: #141414; color: white; font-family: Arial; }
 .info { padding: 20px; }
 
 .serie h2 { color: #e50914; margin-top: 0; font-size: 24px; text-transform: uppercase; }
+
+.serie p { font-size: 14px; margin: 8px 0; color: #ccc; }
