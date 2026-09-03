@@ -13,3 +13,5 @@ body { background: #141414; color: white; font-family: Arial; }
 .serie p { font-size: 14px; margin: 8px 0; color: #ccc; }
 
 .resumen { font-style: italic; color: #999; margin-top: 15px; line-height: 1.5; }
+
+.serie:hover { transform: translateY(-10px); }
